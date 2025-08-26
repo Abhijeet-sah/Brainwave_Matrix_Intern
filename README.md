@@ -4,8 +4,6 @@ Welcome to the **Sales Data Analysis Project** completed during my Data Analytic
 
 ---
 
-##TASK 1:-Create a sale data analysis of any commercial store.
-
 ## 🚀 Project Overview
 - Analyzed synthetic commercial sales data
 - Generated **visual insights** (category-wise, monthly, payment methods)
@@ -16,6 +14,7 @@ Welcome to the **Sales Data Analysis Project** completed during my Data Analytic
 
 ## 📂 Repository Contents
 - `data/` → Sales dataset (CSV)
+- `notebooks/` → Jupyter Notebook with complete analysis
 - `reports/` → PPTX and PDF report
 - `images/` → Company logo & charts
 - `src/` → Python script for automation

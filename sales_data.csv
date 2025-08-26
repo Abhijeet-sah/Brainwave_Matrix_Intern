@@ -1,0 +1,11 @@
+OrderID,Date,Category,Product,Quantity,Price,PaymentMethod
+1001,2025-01-15,Electronics,Laptop,2,60000,UPI
+1002,2025-01-20,Clothing,T-Shirt,5,500,Credit Card
+1003,2025-02-05,Groceries,Rice Bag,10,800,Cash
+1004,2025-03-12,Electronics,Mobile,3,15000,Debit Card
+1005,2025-04-18,Clothing,Jeans,4,1200,UPI
+1006,2025-05-22,Electronics,Laptop,5,62000,UPI
+1007,2025-06-08,Groceries,Wheat Flour,7,450,Cash
+1008,2025-07-11,Clothing,Jacket,2,2500,Credit Card
+1009,2025-08-14,Electronics,Headphones,6,2000,UPI
+1010,2025-09-19,Groceries,Vegetables,15,100,Cash
